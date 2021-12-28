@@ -1,0 +1,42 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Merriweather&display=swap');
+
+a
+{
+text-decoration: none;
+}
+
+.container
+{
+text-align: center;
+background-color: bisque;
+margin: 15px 300px 0px 300px;
+border-radius: 15px;
+float:left;
+}
+.main-div
+{
+ margin: 20px;
+}
+
+.main-div img
+{
+width:350px;
+border-radius: 50%;
+}
+.main-div h1
+{
+    font-family: 'Bebas Neue', cursive;
+}
+.main-div p
+{
+    font-family: 'Merriweather', serif;
+}
+li
+{
+list-style-type:none;
+}
+p
+{
+color: rgb(87, 87, 92);
+}
